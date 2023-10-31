@@ -2,9 +2,6 @@
 A collection of useful functions and macros that are not contained in unreal or the modkit by default.
 
 
-![grafik](https://github.com/DarkAt26/PavlovVR-Function-Macro-Libraries/assets/84019236/bc6289b9-386e-4ded-8c92-b6a5bae24e80)<br>
-![grafik](https://github.com/DarkAt26/PavlovVR-Function-Macro-Libraries/assets/84019236/43bae1a4-8dab-4a33-b960-b1da23560429)
-
 
 - **Discord**
   - **Webhook**
