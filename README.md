@@ -4,7 +4,7 @@ A collection of useful functions and macros that are not contained in unreal or 
 
 
 - **Discord**
-  - **Webhook**
+  - **Webhook** <sup>use https://discohook.org for easy template creation</sup>
     - Send Message
     - Send Message (JsonString)
 - **Item**
