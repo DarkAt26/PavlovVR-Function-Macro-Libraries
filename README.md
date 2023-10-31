@@ -46,7 +46,8 @@ A collection of useful functions and macros that are not contained in unreal or 
   - **Profile**
     - Get Name
     - Get Avatar URL
-
+- **Http**
+  - Get Request
 
 
 
