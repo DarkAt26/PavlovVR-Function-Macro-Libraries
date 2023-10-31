@@ -40,7 +40,8 @@ A collection of useful functions and macros that are not contained in unreal or 
     - Get Relative Location & Rotation_ (Pure)
     - Add Relative Location & Rotation
     - Add Relative Location & Rotation_ (Pure)
-
+- **SND**
+  - IsFirstRound
 
 
 
