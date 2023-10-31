@@ -42,6 +42,10 @@ A collection of useful functions and macros that are not contained in unreal or 
     - Add Relative Location & Rotation_ (Pure)
 - **SND**
   - IsFirstRound
+- **Steam**
+  - **Profile**
+    - Get Name
+    - Get Avatar URL
 
 
 
