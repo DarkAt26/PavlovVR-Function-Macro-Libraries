@@ -6,6 +6,43 @@ A collection of useful functions and macros that are not contained in unreal or 
 ![grafik](https://github.com/DarkAt26/PavlovVR-Function-Macro-Libraries/assets/84019236/43bae1a4-8dab-4a33-b960-b1da23560429)
 
 
+- **Discord**
+  - **Webhook**
+    - Send Message
+    - Send Message (JsonString)
+- **Item**
+  - **Spawn**
+    - Spawn Item (Hand)
+    - Spawn Item (Inv)
+    - Spawn Item (World)
+  - Drop Item
+  - Destroy Item
+- **Relative Calculation**
+  - **Location**
+    - Get Relative Location
+    - Get Relative Location_ (Pure)
+    - Add Relative Location
+    - Add Relative Location_ (Pure)
+  - **Rotation**
+    - Get Relative Rotation
+    - Get Relative Rotation_ (Pure)
+    - Add Relative Rotation
+    - Add Relative Rotation_ (Pure)
+  - **Scale**
+    - Get Relative Scale
+    - Get Relative Scale_ (Pure)
+    - Add Relative Scale
+    - Add Relative Scale_ (Pure)
+  - **Transform**
+    - Get Relative Transform
+    - Get Relative Transform_ (Pure)
+    - Add Relative Transform
+    - Add Relative Transform_ (Pure)
+  - **Location & Rotation**
+    - Get Relative Location & Rotation
+    - Get Relative Location & Rotation_ (Pure)
+    - Add Relative Location & Rotation
+    - Add Relative Location & Rotation_ (Pure)
 
 
 
